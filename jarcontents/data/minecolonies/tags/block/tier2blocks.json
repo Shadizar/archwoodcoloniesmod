@@ -1,0 +1,347 @@
+{
+  "values": [
+    "#ars_nouveau:summon_bed",
+    "#archwoodcollective:ars_do_stone",
+    "#archwoodcollective:arsbase_stone_slabs",
+    "#archwoodcollective:arsbase_stone_stairs",
+    "ars_nouveau:archwood_hanging_sign",
+    "ars_nouveau:agronomic_sourcelink",
+    "ars_nouveau:relay",
+    "ars_nouveau:magebloom_crop",
+    "ars_nouveau:scribes_table",
+    "ars_nouveau:imbuement_chamber",
+    "ars_nouveau:arcane_core",
+    "ars_nouveau:volcanic_sourcelink",
+    "ars_nouveau:source_gem_block",
+    "ars_nouveau:sconce",
+    "ars_nouveau:sourcestone_sconce",
+    "ars_nouveau:polished_sconce",
+    "ars_nouveau:archwood_sconce",
+    "ars_nouveau:sourcestone_grate",
+    "ars_nouveau:smooth_sourcestone_grate",
+    "ars_nouveau:gold_grate",
+    "ars_nouveau:archwood_grate",
+    "ars_nouveau:mycelial_sourcelink",
+    "ars_nouveau:basic_spell_turret",
+    "ars_nouveau:archwood_chest",
+    "ars_nouveau:starbuncle_plush",
+    "ars_nouveau:repository_controller",
+    "ars_nouveau:repository",
+    "ars_nouveau:alteration_table",
+    "ars_nouveau:magebloom_block",
+    "ars_nouveau:rotating_spell_turret",
+    "ars_nouveau:arcane_pedestal",
+    "ars_nouveau:arcane_platform",
+    "ars_nouveau:magelight_torch",
+    "ars_nouveau:ritual_brazier",
+    "ars_nouveau:redstone_relay",
+	{
+        "id": "#biomesoplenty:dead_logs",
+        "required": false
+    },
+    {
+        "id": "#biomesoplenty:umbran_logs",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:orange_sand",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:orange_sandstone",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:cut_orange_sandstone",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:cut_orange_sandstone_slab",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:chiseled_orange_sandstone",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:smooth_orange_sandstone",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:smooth_orange_sandstone_slab",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:smooth_orange_sandstone_stairs",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:orange_sandstone_slab",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:orange_sandstone_stairs",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:orange_sandstone_wall",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:mossy_black_sand",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:black_sand",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:black_sandstone",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:cut_black_sandstone",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:cut_black_sandstone_slab",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:chiseled_black_sandstone",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:smooth_black_sandstone",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:smooth_black_sandstone_slab",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:smooth_black_sandstone_stairs",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:black_sandstone_slab",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:black_sandstone_stairs",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:black_sandstone_wall",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:dried_salt",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:flowering_oak_sapling",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:snowblossom_sapling",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:rainbow_birch_sapling",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:fir_hanging_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:pine_hanging_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:maple_hanging_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:redwood_hanging_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:mahogany_hanging_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:jacaranda_hanging_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:palm_hanging_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:willow_vine",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:spanish_moss",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:willow_hanging_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:dead_sapling",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:dead_planks",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:dead_slab",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:dead_stairs",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:dead_fence",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:dead_fence_gate",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:dead_door",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:dead_trapdoor",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:dead_pressure_plate",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:dead_button",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:dead_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:dead_hanging_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:magic_hanging_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:umbran_sapling",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:umbran_planks",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:umbran_slab",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:umbran_stairs",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:umbran_fence",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:umbran_fence_gate",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:umbran_door",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:umbran_trapdoor",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:umbran_pressure_plate",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:umbran_button",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:umbran_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:umbran_hanging_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:rose",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:goldenrod",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:orange_cosmos",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:pink_daffodil",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:icy_iris",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:glowflower",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:wilted_lily",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:waterlily",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:sea_oats",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:cattail",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:reed",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:watergrass",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:bramble_leaves",
+        "required": false
+    }
+  ]
+}

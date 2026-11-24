@@ -1,0 +1,268 @@
+{
+  "values": [
+    "ars_nouveau:enchanting_apparatus",
+    "ars_nouveau:relay_splitter",
+    "ars_nouveau:spell_turret",
+    "ars_nouveau:source_lamp",
+    "ars_nouveau:alchemical_sourcelink",
+    "ars_nouveau:vitalic_sourcelink",
+    "ars_nouveau:relay_deposit",
+    "ars_nouveau:timer_spell_turret",
+    "ars_nouveau:spell_prism",
+    "ars_nouveau:relay_collector",
+    "ars_nouveau:scryers_crystal",
+    "ars_nouveau:potion_diffuser",
+    "ars_nouveau:void_prism",
+    "ars_nouveau:falseweave",
+    "ars_nouveau:mirrorweave",
+    "ars_nouveau:ghostweave",
+    "ars_nouveau:brazier_relay",
+    "ars_nouveau:storage_lectern",
+    "ars_nouveau:sky_block",
+    "ars_nouveau:item_detector",
+	{
+        "id": "#biomesoplenty:hellbark_logs",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:white_sand",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:white_sandstone",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:cut_white_sandstone",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:cut_white_sandstone_slab",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:chiseled_white_sandstone",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:smooth_white_sandstone",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:smooth_white_sandstone_slab",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:smooth_white_sandstone_stairs",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:white_sandstone_slab",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:white_sandstone_stairs",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:white_sandstone_wall",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:thermal_calcite",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:thermal_calcite_vent",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:flesh",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:porous_flesh",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:flesh_tendons",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:eyebulb",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:hair",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:pus_bubble",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:brimstone",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:brimstone_bricks",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:brimstone_brick_slab",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:brimstone_brick_stairs",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:brimstone_brick_wall",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:chiseled_brimstone_bricks",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:brimstone_fumarole",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:brimstone_cluster",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:brimstone_bud",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:blackstone_spines",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:blackstone_spines",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:blackstone_bulb",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:rose_quartz_block",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:rose_quartz_cluster",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:large_rose_quartz_bud",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:medium_rose_quartz_bud",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:small_rose_quartz_bud",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:toadstool",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:toadstool_block",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:glowshroom",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:glowshroom_block",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:glowing_moss_block",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:glowing_moss_carpet",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:hanging_cobweb",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:webbing",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:origin_grass_block",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:origin_sapling",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:hellbark_sapling",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:hellbark_planks",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:hellbark_slab",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:hellbark_stairs",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:hellbark_fence",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:hellbark_fence_gate",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:hellbark_door",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:hellbark_trapdoor",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:hellbark_pressure_plate",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:hellbark_button",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:hellbark_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:hellbark_hanging_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:burning_blossom",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:bramble",
+        "required": false
+    }
+  ]
+}

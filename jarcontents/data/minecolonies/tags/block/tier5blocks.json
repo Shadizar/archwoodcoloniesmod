@@ -1,0 +1,86 @@
+{
+  "values": [
+    "ars_nouveau:relay_warp",
+    "ars_nouveau:planarium",
+	{
+        "id": "#biomesoplenty:empyreal_logs",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:wispjelly",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:algal_end_stone",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:unmapped_end_stone",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:anomaly",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:empyreal_sapling",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:empyreal_planks",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:empyreal_slab",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:empyreal_stairs",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:empyreal_fence",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:empyreal_fence_gate",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:empyreal_door",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:empyreal_trapdoor",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:empyreal_pressure_plate",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:empyreal_button",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:empyreal_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:empyreal_hanging_sign",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:endbloom",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:enderphyte",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:lumaloop",
+        "required": false
+    }
+  ]
+}

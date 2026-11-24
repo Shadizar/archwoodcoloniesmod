@@ -1,0 +1,35 @@
+modLoader="lowcodefml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/"
+[[mods]]
+modId="archwoodcolonies"
+version="1.04"
+displayName="Archwood Colonies (including Archwood Collective and possible future styles)"
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+#displayURL="https://curseforge.com/minecraft/mc-mods/archwood-colonies"
+logoFile="logo.png"
+credits=" "
+authors="Shadizar, Teareese, FuturisticAce"
+displayTest="IGNORE_SERVER_VERSION"
+description='''
+This mod packages our Archwood Collective style for Minecolonies, and its related Ars Nouveau and Biomes O Plenty datapacks. In the future it may also include other related styles.
+'''
+#[[dependencies.your_style]]
+#    modId="neoforge"
+#    mandatory=true
+#    versionRange="[21,)"
+#    ordering="NONE"
+#    side="BOTH"
+[[dependencies.archwoodcolonies]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.21.1,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.archwoodcolonies]]
+    modId="minecolonies"
+    mandatory=true
+    versionRange="[1.1.921,)"
+    ordering="NONE"
+    side="SERVER"
