@@ -1,0 +1,1 @@
+The Minecolonies blueprints are not included here, as they're all rights reserved. I may upload them another time, but they're of very little use for review...there's a few icons and a pack json, and then a bunch of .blueprint structure files.
